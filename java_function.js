@@ -18,4 +18,10 @@ console.log(17);
 
 isAdult = confirm("Are you over 19?");
 
+const James ={
+  name: 'James',
+  age: 24,
+  gender: 'M',
+}
 
+console.log(James);
